@@ -11,7 +11,7 @@ Python has been my most comfortable language to code in since around 2019. Here'
 - [FLTK Platformer](https://github.com/SubwayMan/FLTK-Platformer) - A platformer built on top of a hacky custom game engine.
 - [Hamber place](https://github.com/SubwayMan/hamber-place) - A replica of reddit's r/place created as an activity for Eric Hamber's programming club, built on top of Django.
 - [Discord escape room](https://github.com/SubwayMan/discord-escape-room) - A discord bot that uses discord channels and permissions as well as interactive features to simulate an online escape room.
-- 
+  
 ### Arduino projects
 I started learning the arduino in early 2023. Since then, I've made a couple cool projects:
 - [The Tilting Game](https://github.com/SubwayMan/The-Tilting-Game) - a simple game that uses a gyroscope and an LED matrix.
